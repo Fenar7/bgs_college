@@ -1,0 +1,11 @@
+@import '../../styles/_variables';
+
+
+.top-header-container{
+  background-color: $primary-blue;
+  color: $white;
+    
+  .top-header{
+    background-color: red;
+  }
+}

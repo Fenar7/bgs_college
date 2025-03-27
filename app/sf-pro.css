@@ -1,0 +1,74 @@
+/* app/globals.css (or app/sf-pro.css) */
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYBLACKITALIC.otf') format('opentype');
+    font-weight: 900; /* Black */
+    font-style: italic;
+    font-display: swap; /* Important for performance */
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYBOLD.otf') format('opentype');
+    font-weight: bold; /* 700 */
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYHEAVYITALIC.otf') format('opentype');
+    font-weight: 900; /* Heavy */
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYLIGHTITALIC.otf') format('opentype');
+    font-weight: 300; /* Light */
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYMEDIUM.otf') format('opentype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYREGULAR.otf') format('opentype');
+    font-weight: normal; /* 400 */
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYSEMIBOLDITALIC.otf') format('opentype');
+    font-weight: 600; /* Semi Bold */
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYTHINITALIC.otf') format('opentype');
+    font-weight: 100; /* Thin */
+    font-style: italic;
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'SF Pro Display';
+    src: url('/fonts/SFPRODISPLAYULTRALIGHTITALIC.otf') format('opentype');
+    font-weight: 200; /* Ultra Light */
+    font-style: italic;
+    font-display: swap;
+  }
+  
